@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		412A3A7529B6600100C87E59 /* UserRegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412A3A7429B6600100C87E59 /* UserRegistrationViewModel.swift */; };
 		41A7359A29B62ADA007D28D7 /* SwiftUIFormRegistrationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A7359929B62ADA007D28D7 /* SwiftUIFormRegistrationApp.swift */; };
 		41A7359C29B62ADA007D28D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A7359B29B62ADA007D28D7 /* ContentView.swift */; };
 		41A7359E29B62ADE007D28D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41A7359D29B62ADE007D28D7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		412A3A7429B6600100C87E59 /* UserRegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegistrationViewModel.swift; sourceTree = "<group>"; };
 		41A7359629B62ADA007D28D7 /* SwiftUIFormRegistration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIFormRegistration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A7359929B62ADA007D28D7 /* SwiftUIFormRegistrationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIFormRegistrationApp.swift; sourceTree = "<group>"; };
 		41A7359B29B62ADA007D28D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				41A7359B29B62ADA007D28D7 /* ContentView.swift */,
 				41A7359D29B62ADE007D28D7 /* Assets.xcassets */,
 				41A7359F29B62ADE007D28D7 /* Preview Content */,
+				412A3A7429B6600100C87E59 /* UserRegistrationViewModel.swift */,
 			);
 			path = SwiftUIFormRegistration;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				412A3A7529B6600100C87E59 /* UserRegistrationViewModel.swift in Sources */,
 				41A7359C29B62ADA007D28D7 /* ContentView.swift in Sources */,
 				41A7359A29B62ADA007D28D7 /* SwiftUIFormRegistrationApp.swift in Sources */,
 			);
